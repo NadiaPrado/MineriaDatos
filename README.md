@@ -1,3 +1,3 @@
 # MineriaDatos
-##Fase I
-Mapa Mental
+## Fase I
+
