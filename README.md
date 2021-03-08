@@ -9,3 +9,6 @@
 [Ejercicios Básicos de Python(ya corridos los que me faltaron)](Ej_Python1_1794335.ipynb)
 
 [Limpieza de Datos](https://github.com/LeslieSosa/Mineria-de-Datos-003/blob/main/Ej_Limpieza_Equipo2.ipynb)
+
+## Fase II
+[Presentación](https://github.com/LeslieSosa/Mineria-de-Datos-003/blob/main/Presentaci%C3%B3n_Patrones%20Secuenciales_2%20.pdf)
