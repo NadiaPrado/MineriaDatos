@@ -13,6 +13,6 @@
 [Primer entrega del PIA](https://github.com/arelitolentino/Mineria-de-datos/blob/main/Avance1_PIA_Equipo2.ipynb)
 
 ## Fase II
-[Presentación tecnicas](https://github.com/LeslieSosa/Mineria-de-Datos-003/blob/main/Presentaci%C3%B3n_Patrones%20Secuenciales_2%20.pdf)
+[Presentación Patrones de secuencias](https://github.com/LeslieSosa/Mineria-de-Datos-003/blob/main/Presentaci%C3%B3n_Patrones%20Secuenciales_2%20.pdf)
 
-[Mini exámen tecnicas]
+[Mini exámen Patrones de secuencias](https://github.com/arelitolentino/Mineria-de-datos/blob/main/Calificaci%C3%B3n_Patrones-secuenciales_Equipo2.pdf)
