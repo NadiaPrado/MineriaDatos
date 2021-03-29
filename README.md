@@ -19,4 +19,4 @@
 
 [Codigo patrones secuenciales](https://github.com/arlettemartinezmartinez/MineriaDeDatos/blob/main/GSP.py)
 
-[Mapa Mental II](
+[Mapa Mental II](MapaMental_2_1794335.pdf)
