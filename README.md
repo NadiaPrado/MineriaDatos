@@ -22,3 +22,5 @@
 [Mapa Mental II](MapaMental_2_1794335.pdf)
 
 [Práctica de visualización](https://github.com/LeslieSosa/Mineria-de-Datos-003/blob/main/Visualizaci%C3%B3n_Equipo2.ipynb)
+
+[Segundo Avance del PIA]
