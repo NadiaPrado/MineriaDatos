@@ -25,4 +25,4 @@
 
 [Segunda Entrega del PIA](https://github.com/LeslieSosa/Mineria-de-Datos-003/blob/main/AvancePIA_II_Grupo003_Equipo2.ipynb)
 
-[Segunda Entrega del PIA](https://github.com/LeslieSosa/Mineria-de-Datos-003/blob/main/AvancePIA_II_Grupo003_Equipo2_Version2.ipynb)
+[Segunda Entrega del PIA(versión 2)](https://github.com/LeslieSosa/Mineria-de-Datos-003/blob/main/AvancePIA_II_Grupo003_Equipo2_Version2.ipynb)
