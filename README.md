@@ -28,3 +28,6 @@
 [Segunda Entrega del PIA(versión 2)](https://github.com/LeslieSosa/Mineria-de-Datos-003/blob/main/AvancePIA_II_Grupo003_Equipo2_Version2.ipynb)
 
 [Segunda Entrega del PIA(version 3)](https://github.com/LeslieSosa/Mineria-de-Datos-003/blob/main/AvancePIA_II_Grupo003_Equipo2_Version3.ipynb)
+
+## Fase III
+[PIA(version 1)](https://github.com/LeslieSosa/Mineria-de-Datos-003/blob/main/Poster_EsperanzadeVida_Equipo2.pdf)
